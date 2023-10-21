@@ -1,0 +1,7 @@
+wordle notes:
+
+dream: - orate
+stale: - orate, gleek - interesting second guess. deals with double letter issue
+valet: - orate, scald, frump - could I have chosen a better second word?
+? : salet, brand - 3 remaining (33% in 3, 33% in 4, 33% in 5) or 100% in 4
+
